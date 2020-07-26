@@ -1,2 +1,2 @@
-# lab6
+# lab5
 Express and MySQL
